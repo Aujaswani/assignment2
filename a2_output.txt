@@ -1,0 +1,14 @@
+Error executing du: du: cannot read directory '/sys/kernel/tracing/osnoise': Permission denied
+du: cannot read directory '/sys/kernel/tracing/hwlat_detector': Permission denied
+du: cannot read directory '/sys/kernel/tracing/rv': Permission denied
+du: cannot read directory '/sys/kernel/tracing/instances': Permission denied
+du: cannot read directory '/sys/kernel/tracing/trace_stat': Permission denied
+du: cannot read directory '/sys/kernel/tracing/per_cpu': Permission denied
+du: cannot read directory '/sys/kernel/tracing/options': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/osnoise': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/hwlat_detector': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/rv': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/instances': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/trace_stat': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/per_cpu': Permission denied
+du: cannot read directory '/sys/kernel/debug/tracing/options': Permission denied
